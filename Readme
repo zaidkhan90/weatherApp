@@ -1,0 +1,30 @@
+# 🌦️ Weather App with 3D Animations
+
+A **responsive** and **interactive** Weather App that fetches real-time weather data using the OpenWeather API. The app features **cool 3D animations** and dynamic backgrounds based on weather conditions. 🌎✨  
+
+![Weather App Demo](https://your-image-url.com) <!-- Replace with actual demo screenshot -->
+
+---
+
+## 🚀 Features
+✅ **Live Weather Updates** - Get real-time weather data for any city.  
+✅ **3D Animations** - Cool animations for different weather conditions.  
+✅ **Dynamic Backgrounds** - The UI adapts based on weather (rain, snow, sunny, etc.).  
+✅ **Responsive Design** - Works on **mobile, tablet, and desktop**.  
+✅ **Search Functionality** - Users can check weather for any location.  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML, CSS, JavaScript** (Frontend)
+- **OpenWeather API** (Weather Data)
+- **GSAP / CSS Animations** (Smooth animations)
+
+---
+
+## 📂 Installation & Setup
+Follow these steps to run the project locally:  
+
+1️⃣ **Clone the repository**  
+```sh
+git clone https://github.com/your-username/weather-app.git
